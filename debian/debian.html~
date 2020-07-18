@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <meta charset="utf-8" />
+    <title>Linux Distro - Debian</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="shortcut icon" type="image/png" href="../img/favicon.png" />
+  </head>
+  <body>
+    <div class="page">
+      <div class="heading">
+        <a href="../index.html">
+          <img id="heading" src="../img/heading.svg" alt="Home Button" />
+        </a>
+        <hr />
+        <nav>
+          <a href="../index.html">
+            <img src="../img/home-button.svg" alt="Home Link" width="200" />
+          </a> 
+          <a href="../ubuntu/ubuntu.html">
+            <img src="../img/ubuntu-logo.svg" alt="Ubuntu logo" width="200" />
+          </a> 
+          <a href="../fedora/fedora.html">
+            <img src="../img/fedora-logo.svg" alt="Fedora logo" width="200" />
+          </a> 
+          <a href="../debian/debian.html">
+            <img src="../img/debian-logo.svg" alt="Debian logo" width="200" />
+          </a> 
+          <a href="../archlinux/archlinux.html">
+            <img src="../img/archlinux-logo.svg" alt="Archlinux logo" width="200" />
+          </a>
+        </nav>
+      </div>
+      <div class="body">
+      <h1 id="class-body-h1-center">Debian</h1>Welcome to our Debian page now Debian is know as a Rolling Release Distro now
+	that mean that once you install the OS you never need to install the OS again as in you never new to install an newer version of the OS,  		all you ever need to do is software update, and your always have the latest version of the OS install.
+	  <img id="distro-desktop-pic" src="../img/debian.png" alt="Debian Desktop" />
+	For any help with Debian
+      </div>
+    </div>
+  </body>
+</html>

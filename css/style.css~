@@ -1,0 +1,55 @@
+/*
+body margin, and padding set for Crossbrowser Compatibility.
+*/
+body {
+    background-color: darkgreen;
+    margin: 5px;
+    padding: 5px;
+}
+
+.page {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: green;
+    width: 90%;
+
+
+}
+
+.heading {
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    padding-top: 20px;
+}
+
+
+#heading {
+    width:50%;
+    max-width:80%;
+	 min-width:220px;
+    
+    
+    
+}
+
+img,.heading {
+	 display: block; 
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkgreen;
+
+}
+

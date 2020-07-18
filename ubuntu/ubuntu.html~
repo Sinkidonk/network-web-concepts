@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <meta charset="utf-8" />
+    <title>Linux Distro - Ubuntu</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="shortcut icon" type="image/png" href="../img/favicon.png" />
+  </head>
+  <body>
+    <div class="page">
+      <div class="heading">
+        <a href="../index.html">
+          <img id="heading" src="../img/heading.svg" alt="Home Button" />
+        </a>
+        <hr />
+        <nav>
+          <a href="../index.html">
+            <img src="../img/home-button.svg" alt="Home Link" width="200" />
+          </a> 
+          <a href="../ubuntu/ubuntu.html">
+            <img src="../img/ubuntu-logo.svg" alt="Ubuntu logo" width="200" />
+          </a> 
+          <a href="../fedora/fedora.html">
+            <img src="../img/fedora-logo.svg" alt="Fedora logo" width="200" />
+          </a> 
+          <a href="../debian/debian.html">
+            <img src="../img/debian-logo.svg" alt="Debian logo" width="200" />
+          </a> 
+          <a href="../archlinux/archlinux.html">
+            <img src="../img/archlinux-logo.svg" alt="Archlinux logo" width="200" />
+          </a>
+        </nav>
+      </div>
+      <div class="body">
+        <h1 id="class-body-h1-center">Ubuntu</h1>Welcome to our Ubuntu page now Ubuntu is the 3rd most used OS in the world behind
+        Windows and OSX now I have to say that by default Ubuntu is for people coming from MacOSX, or for people coming from Windows
+        I would say try Linux Mint the 4th most used OS in the world base off of Ubuntu.
+        <br />
+		Now Ubuntu, as well as Linux Mint is a beginner linux distro there great for new people coming to Linux. 
+        <img id="distro-desktop-pic" src="../img/ubuntu.png" alt="Ubuntu Desktop" /> If you need any help with Ubuntu you can go to 
+        <a href="http://ubuntuforums.org/index.php" target="_blank">Ubuntu Forums</a> or to 
+        <a href="http://askubuntu.com/" target="_blank">Ask Ubuntu</a> or you can try out
+	<a href="http://www.omgubuntu.co.uk/" target="_blank">OMG! Ubuntu</a>
+    </div>
+    </div>
+  </body>
+</html>

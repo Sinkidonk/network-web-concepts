@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <meta charset="utf-8" />
+    <title>Linux Distro</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="shortcut icon" type="image/png" href="../img/favicon.png" />
+  </head>
+  <body>
+    <div class="page">
+      <div class="heading">
+        <a href="../index.html">
+          <img id="heading" src="../img/heading.svg" alt="Home Button" />
+        </a>
+        <hr />
+        <nav>
+          <a href="../index.html">
+            <img src="../img/home-button.svg" alt="Home Link" width="200" />
+          </a> 
+          <a href="../ubuntu/ubuntu.html">
+            <img src="../img/ubuntu-logo.svg" alt="Ubuntu logo" width="200" />
+          </a> 
+          <a href="../fedora/fedora.html">
+            <img src="../img/fedora-logo.svg" alt="Fedora logo" width="200" />
+          </a> 
+          <a href="../debian/debian.html">
+            <img src="../img/debian-logo.svg" alt="Debian logo" width="200" />
+          </a> 
+          <a href="../archlinux/archlinux.html">
+            <img src="../img/archlinux-logo.svg" alt="Archlinux logo" width="200" />
+          </a>
+        </nav>
+      </div>
+      <div class="body">
+        <h1 id="class-body-h1-center">Fedora</h1>Welcome to our Fedora page now Fedora is foundation by Red Hat Enterprise Linux, and Fedora
+        is built by the community for the benefit of the community.
+          <img id="distro-desktop-pic" src="../img/fedora.png" alt="Fedora Desktop" />
+        For any help you may need for Fedora you can go to 
+	<a href="http://docs.fedoraproject.org/en-US/index.html" target="_blank">Fedora Documentation</a>, or to 
+	<a href="http://fedoraforum.org/" target="_blank">Fedora Forum</a>, or to 
+	<a href="https://ask.fedoraproject.org/en/questions/" target="_blank">Ask Fedora</a>
+	
+      </div>
+    </div>
+  </body>
+</html>

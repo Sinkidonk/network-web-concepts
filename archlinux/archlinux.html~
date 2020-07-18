@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <meta charset="utf-8" />
+    <title>Linux Distro</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="shortcut icon" type="image/png" href="../img/favicon.png" />
+  </head>
+  <body>
+    <div class="page">
+      <div class="heading">
+        <a href="../index.html">
+          <img id="heading" src="../img/heading.svg" alt="Home Button" />
+        </a>
+        <hr />
+        <nav>
+        <a href="../index.html">
+          <img src="../img/home-button.svg" alt="Home Link" width="200" />
+        </a> 
+        <a href="../ubuntu/ubuntu.html">
+          <img src="../img/ubuntu-logo.svg" alt="Ubuntu logo" width="200" />
+        </a> 
+        <a href="../fedora/fedora.html">
+          <img src="../img/fedora-logo.svg" alt="Fedora logo" width="200" />
+        </a> 
+        <a href="../debian/debian.html">
+          <img src="../img/debian-logo.svg" alt="Debian logo" width="200" />
+        </a> 
+        <a href="../archlinux/archlinux.html">
+          <img src="../img/archlinux-logo.svg" alt="Archlinux logo" width="200" />
+        </a></nav>
+      </div>
+      <div class="body">
+	<p>
+	  <h1 id="class-body-h1-center">archlinux</h1>
+	Welcome to our archlinux page now archlinux on there home page at 
+	<a href="https://www.archlinux.org/" target="_blank">archlinux.org</a> they call them self ""
+	</p>
+      </div>
+    </div>
+  </body>
+</html>
